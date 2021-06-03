@@ -1,4 +1,4 @@
-# BMImageLoder
+# Image loder from British Museum site
 Scrapy spider for massive image upload from British museum site
 
 You can't upload all images from site after collection search, you need to click each item and then upload it by clicking the button. So this spider was created to upload multiple items at ones.
